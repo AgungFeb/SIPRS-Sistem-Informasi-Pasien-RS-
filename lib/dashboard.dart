@@ -19,7 +19,7 @@ class _DashboardState extends State<Dashboard> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: new AppBar(
-        title: Text("MENU UTAMA"),
+        title: Text("SIPRS"),
         backgroundColor: Colors.blue[700],
       ),
       backgroundColor: Colors.blue[100],
